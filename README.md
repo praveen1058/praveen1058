@@ -32,6 +32,9 @@ I'm a **Cloud & DevOps Engineer** with over **7+ years of experience** managing 
 
 ## 🚀 Projects
 
+> 🔒 Most of my professional work is under private company repositories, but I'm actively rebuilding my portfolio with personal projects using Terraform, Python, and AWS automation.
+
+
 Here are a few projects I've been working on:
 
 | Project | Description |
