@@ -2,6 +2,9 @@
 
 I'm a **Cloud & DevOps Engineer** with over **7+ years of experience** managing infrastructure on **AWS**. I specialize in building scalable, reliable, and automated solutions using DevOps and Cloud best practices.
 
+> 🔒 Most of my professional work is under private company repositories, but I'm actively rebuilding my portfolio with personal projects using Terraform, Python, and AWS automation.
+
+
 ---
 
 ## 🧑‍💻 What I'm Working On
@@ -31,8 +34,6 @@ I'm a **Cloud & DevOps Engineer** with over **7+ years of experience** managing 
 ---
 
 ## 🚀 Projects
-
-> 🔒 Most of my professional work is under private company repositories, but I'm actively rebuilding my portfolio with personal projects using Terraform, Python, and AWS automation.
 
 
 Here are a few projects I've been working on:
