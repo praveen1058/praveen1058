@@ -39,13 +39,6 @@ Here are some of my recent public projects:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen1058&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
