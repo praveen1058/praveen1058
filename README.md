@@ -13,7 +13,6 @@ I'm a **Cloud & DevOps Engineer** with over **7+ years of experience** managing 
 - 🐍 Writing **Python (Boto3)** scripts to automate AWS services
 - ☁️ Exploring **CloudFormation** and **Serverless** architecture
 - 🛠️ Creating and documenting real-world fixes in my [Cloud Troubleshooting Playbook](https://github.com/praveen1058/cloud-troubleshooting-playbook)
-- 📘 Practicing **CI/CD pipelines** using Jenkins & GitHub Actions
 
 ---
 
